@@ -1,4 +1,4 @@
-# A Firebase Compatible Website Builder
+# A Firebase Website Builder
 An open source project to make a website builder like Wix, Yolasite, Wordpress, etc etc. but build for automatic hosting on firebase.
 
 Cool, right?
