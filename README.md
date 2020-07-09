@@ -8,4 +8,4 @@ Let's get you started. Wait! Before we get started hit a like to this project.
 
 **Step 1**: Create a [Firebase Project](https://firebase.google.com/docs/storage/web/start)<br>
 **Step 2**: Setup your [Firebase Hosting using Firebase CLI](https://firebase.google.com/docs/hosting/quickstart)<br>
-**Step 3**: Run this command ```git clone https://github.com/i-am-reev/firebase-website-builder.git``` in your terminal. But ofcourse, [install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) before using the command.
+**Step 3**: Run this command ```git clone https://github.com/reev-tech/firebase-website-builder.git``` in your terminal. But ofcourse, [install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) before using the command.
